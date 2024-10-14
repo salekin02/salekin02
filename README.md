@@ -8,7 +8,7 @@
 <div style="display:flex">
   <p align="center"><img align="right"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=salekin02&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia"
-      alt="nahidsalekin" /></p>
+      alt="salekin02" /></p>
   </p>
 
   - 🔭 I’m currently working on [GetGenie](https://getgenie.ai)
@@ -25,14 +25,14 @@
 
 <h3 align='center'>Let's connect!&nbsp;&nbsp;🤝</h3>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/nahidsalekin/">
+  <a href="https://www.linkedin.com/in/salekin02/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/nahidsalekin">
+  <a href="https://instagram.com/salekin02">
     <img
       src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/nahidsalekin">
+  <a href="https://twitter.com/salekin02">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
@@ -62,8 +62,8 @@
 
 <!-- <h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
 <p align='center'>
-  <img src='https://github.com/nahidsalekin/github-stats-transparent/blob/output/generated/overview.svg'>
-  <img src='https://github.com/nahidsalekin/github-stats-transparent/blob/output/generated/languages.svg'>
+  <img src='https://github.com/salekin02/github-stats-transparent/blob/output/generated/overview.svg'>
+  <img src='https://github.com/salekin02/github-stats-transparent/blob/output/generated/languages.svg'>
 </p> -->
 
 <br />
