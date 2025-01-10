@@ -11,11 +11,11 @@
       alt="salekin02" /></p>
   </p>
 
-  - 🔭 I’m currently working on [GetGenie](https://getgenie.ai)
+  - 🔭 I’m currently working on YoSuite - HR management system
 
-  - 🌱 I’m currently learning **Next.js**
+  - 🌱 I’m currently learning **Docker**
 
-  - 👯 I’m looking to collaborate on **Next.js projects**
+  - 👯 I’m looking to collaborate on **Next.js/React projects**
 
   - 💬 Ask me about **JavaScript, Ant.Design, Next.js**
 
