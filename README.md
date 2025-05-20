@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Nahid Salekin</h1>
-<h3 align="center">Web Developer - XpeedStudio</h3>
+<h3 align="center">Lead Web Developer - XpeedStudio</h3>
 
 
 
@@ -13,7 +13,7 @@
 
   - 🔭 I’m currently working on YoSuite - HR management system
 
-  - 🌱 I’m currently learning **Docker**
+  - 🌱 I’m currently learning **The Unknown**
 
   - 👯 I’m looking to collaborate on **Next.js/React projects**
 
