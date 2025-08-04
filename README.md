@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Serajus Salekin</h1>
-<h3 align="center">Sr. Software Engineer - XpeedStudio</h3>
+<h3 align="center">Sr. Software Engineer</h3>
 
 
 
