@@ -13,7 +13,7 @@
 
   - 🔭 I’m currently working on YoSuite - HR management system
 
-  - 🌱 I’m currently learning **The Unknown**
+  - 🌱 I’m currently learning **NestJS**
 
   - 👯 I’m looking to collaborate on **Next.js/React projects**
 
