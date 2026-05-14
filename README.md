@@ -11,7 +11,7 @@
       alt="salekin02" /></p>
   </p>
 
-  - 🔭 I’m currently working on YoSuite - HR management system
+  - 🔭 I’m currently working at JustGo
 
   - 🌱 I’m currently learning **NestJS**
 
